@@ -1,3 +1,6 @@
 import streamlit
 
-streamlit.title('Maior de Portugal')
+streamlit.header('O Maior de Portugal')
+streamlit.text('Indomável')
+streamlit.text('Conde do Murganhal')
+streamlit.text('Destemido')
